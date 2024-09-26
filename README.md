@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/8poooh7vsctzgstw6ent.gif" alt="描述文字" style="width: 100%;">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Michael Zhang</h1>
 <h3 align="center">Digital Marketing & Data Analysis professional sharing about my journey and learnings in tech</h3> 
 
