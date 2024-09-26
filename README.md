@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Michael Zhang</h1>
+<h1 align="center">Hi 👋, I'm Michael Zhang👨🏽‍🎓 👨🏽‍💻</h1>
 <h3 align="center">Digital Marketing & Data Analysis professional sharing about my journey and learnings in tech</h3> 
 
 
