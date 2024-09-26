@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="8poooh7vsctzgstw6ent.gif" alt="描述文字" style="width: 100%;">
+  <img src="Bottom_up.svg" alt="描述文字" style="width: 100%;">
 </p>
 
 
@@ -24,3 +24,6 @@
 
 <h3 align="left">Star:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miczhang18&" alt="miczhang18" /></p>
+
+
+<img src="bottom_header.svg" alt="描述文字" style="width: 100%;">
