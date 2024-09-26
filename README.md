@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/8poooh7vsctzgstw6ent.gif" alt="描述文字" style="width: 100%;">
+  <img src="8poooh7vsctzgstw6ent.gif" alt="描述文字" style="width: 100%;">
 </p>
 
 
